@@ -1,5 +1,5 @@
-# shop
-<b>Basic Requirements to run the Web-App(Latest Versions):</b>
+# Shop
+<b>Basic Requirements to run the Web-App(Latest Versions) are:</b>
 <li>node js</li>
 <li>express js
 <li>ejs
